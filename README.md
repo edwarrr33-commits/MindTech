@@ -1,2 +1,2 @@
 # MindTech
-plataforma  de  bienestar  familiar
+plataforma  de  bienestar  emocional
